@@ -1,0 +1,9 @@
+	{
+		"replacements": {
+			"trim_excessive_newlines": {
+				"find": "^(?:[\t ]*(?:\r?\n|\r))+",
+				"name": "trim_excessive_newlines",
+				"replace": ""
+			}
+		}
+	}

@@ -1,0 +1,19 @@
+{
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"theme": "Material-Theme.sublime-theme",
+	"font_face": "Hack",
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"save_on_focus_lost": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap":false,
+	"caret_style":"phase",
+	"caret_extra_width":2,
+	"caret_extra_bottom":1,
+	"caret_extra_top":1,
+    "line_padding_top": 2,
+    "line_padding_bottom": 2
+}

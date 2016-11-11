@@ -1,0 +1,9 @@
+[
+	{
+		"caption": "Reg Replace: Remove Blank New Lines",
+		"command": "reg_replace",
+		"args": {
+			"replacements" : ["trim_excessive_newlines"]
+		}
+	}
+]

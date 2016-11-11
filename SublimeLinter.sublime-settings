@@ -1,0 +1,9 @@
+{
+	"user":
+	{
+		"gutter_theme": "Packages/Material Theme/gutter-theme/Material-Theme.gutter-theme",
+		"linters":
+		{
+		}
+	}
+}

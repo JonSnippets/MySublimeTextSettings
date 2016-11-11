@@ -1,0 +1,10 @@
+{
+	"on_save": true,
+	"on_save_sequences": [
+		// remove trailing new lines
+		{
+			"file_pattern": ["*"],
+			"sequence": "trim_excessive_newlines"
+		}
+	]
+}
